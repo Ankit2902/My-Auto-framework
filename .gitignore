@@ -1,0 +1,12 @@
+# Ignore Maven and IntelliJ-related files
+.idea/
+target/
+*.iml
+*.class
+
+# Logs
+*.log
+
+# OS-specific
+Thumbs.db
+.DS_Store
